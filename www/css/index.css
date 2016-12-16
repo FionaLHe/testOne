@@ -1,0 +1,26 @@
+img{vertical-align:middle;text-align: left;}
+body {width:100%;height:100%;max-width:640px;margin:0 auto;background:#f2f2f2;}
+.btn{height:45px;line-height:45px;text-align:center;}
+.start_btn{top:69%;left:50%;margin-left:-10%;width:20%;}
+.top{position:fixed;z-index:2;top:0;width:100%;}
+.foot{/* position:fixed;z-index:2; */bottom:0;width:100%;}
+.gzbtn{position:fixed;z-index:2;top:6%;right:2%;width:28%;}
+.gzbtn img{width:100%;}
+.foot1{position:fixed;z-index:2; bottom:0;width:100%;}
+.foot img,.top img,.foot1 img{width:100%;}
+
+/* 登录页面 */
+.mail{width:90%;margin:0 auto;}
+.barnar{width:100%;margin-bottom:2%}
+.barnar img{width:100%;}
+.shenfen{width:100%;padding-left:2%;height:45px;line-height:45px;margin-bottom:2%;border:1px solid #ccc;}
+.log{background:#a1a1a1;color:#fff;}
+.dl{background:#4cd963;color:#fff;}
+.btn_dl{background:#6b6b6b;color:#fff;}
+.check{border:1px solid #000;}
+.foot{font-size: 0.8em;}
+.wj{color:#00F;}
+.hzsj{background:#fff;border:1px solid #ccc;font-weight:bold;height:45px;line-height:45px;text-indent:1em;}
+.tit{line-height:30px;}
+.rmark{color:##949494;font-size:0.8em;}
+.back{width:22px;height:22px;margin-top:11px;margin-left:10px;}
